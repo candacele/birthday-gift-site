@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background: linear-gradient(#EEC643,#FF5964);
     color: #ffffff;
 }
 
@@ -12,12 +12,12 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid #758ECD;
     margin-bottom: 10px;
 }
 
 #bday-age {
-    background: #EFB0C9;
+    background: #758ECD;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -25,7 +25,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: #EFB0C9;
+    background: #758ECD;
     padding: 5px 10px;
     border-radius: 5px;
 }
@@ -48,7 +48,7 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 
-#gift-img-cheers {
+#gift-img-bestie {
     height: 200px;
 }
 
@@ -70,22 +70,23 @@ h1, h2, h3, h4, p {
     background-image: url("images/hot.gif");
 }
 
-#gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+#gift-img-playful:hover {
+    background-image: url("images/playful.gif");
 }
 
-#gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+#gift-img-oppa:hover {
+    background-image: url("images/oppa.gif");
 }
 
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+#gift-img-bestie:hover {
+    background-image: url("images/bestie.gif");
 }
 
 #footer {
     font-style: italic;
     width: 400px;
     margin: 40px auto 20px;
+
 }
 /* 
 Add the footer paragraph according to the design. 
